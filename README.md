@@ -1,8 +1,8 @@
 # news-image-20261120 — The World in One Day
 
-![news-image-20261120](https://make.fun/badge/news-image-20261120.svg)
-![rank](https://make.fun/badge/news-image-20261120/usb-star001/news-image-20261120/rank.svg)
-![reward](https://make.fun/badge/news-image-20261120/usb-star001/news-image-20261120/reward.svg)
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/usb-star001/news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard)
+[![reward](https://make.fun/badge/news-image-20261120/usb-star001/news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120)
 
 One image summing up the world's news of Friday 20 November 2026: 36 verified
 stories from that day across 6 regions, with a world map, a big-numbers strip,
